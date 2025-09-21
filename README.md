@@ -41,3 +41,9 @@ Create a robust API (Application Programming Interface) for your system. This wo
 LMS Integration: Seamlessly integrate with popular Learning Management Systems like Moodle, Google Classroom, or Canvas. Scores could be automatically synced to the gradebook.
 
 Third-Party Tools: Allow other applications, like student information systems or analytics platforms, to pull data from your OMR system.
+
+SHREE VENKATESHWARA HI-TECH ENGINEERING COLLEGE ERODE,GOBI,OTHAKKUTHIRAI
+THE NAME OF THE PARTICIPANTS
+MOHANKUMAR S
+SOBHA SRI G
+NANDHINI S
